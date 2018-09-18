@@ -6,6 +6,17 @@
 
 ## Tools
 - [Sketch](https://spectrum.chat/sketch)
+- [Figma](https://spectrum.chat/figma)
+
+## Design
+- [Product Design](https://spectrum.chat/product-design)
+- [Google Design](https://spectrum.chat/google-design)
+
+## Web Development
+- [React](https://spectrum.chat/react)
+- [Next.JS](https://spectrum.chat/next-js)
+- [Node.JS](https://spectrum.chat/node)
+- [Elixir](https://spectrum.chat/elixir)
 
 ## Contributing
 See [contribution guidelines](contributing.md#readme).

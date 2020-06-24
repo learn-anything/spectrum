@@ -14,4 +14,4 @@ Ensure your pull request adheres to following guidelines:
 - New categories or improvements to existing categorization are welcome.
 - You can also add related links and repositories in the end.
 
-We welcome all [your suggestions](../../edit/master/README.md)!
+[All suggestions are welcome](../../edit/master/readme.md).
